@@ -20,6 +20,7 @@ npm start  # Runs on http://localhost:3000
 ```
 
 **Folder structure**
+```bash
 food-recommend/
 ├── backend/       # Flask API
 │   ├── app.py
@@ -27,3 +28,4 @@ food-recommend/
 └── frontend/      # React App
     ├── src/
     └── package.json
+```
